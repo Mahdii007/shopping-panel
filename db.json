@@ -1,0 +1,69 @@
+
+{
+"products" : [
+    {
+        "id": 1,
+        "name":"Elara Leather  Bag",
+        "price": 199,
+        "image": "imageProduct1",
+        "description": "Crafted from premium full-grain leather, the Elara Tote Bag combines style and functionality. Spacious enough for your essentials with a sleek design perfect for daily use or travel.",
+        "slug": "elara-leather-tote-bag"
+    },
+    {
+        "id": 2,
+        "name": "Luna Crossbody Bag",
+        "price": 149,
+        "image": "imageProduct2",
+        "description": "The Luna Crossbody Bag offers a chic, hands-free option for the modern woman. Featuring multiple compartments and an adjustable strap, it’s perfect for on-the-go organization.",
+        "slug": "luna-crossbody-bag"
+    },
+    {
+        "id": 3,
+        "name": "Astra  Shoulder Bag",
+        "price": 179,
+        "image": "imageProduct3",
+        "description": "The Astra Quilted Shoulder Bag blends elegance with practicality. Its luxurious quilted finish and gold-tone hardware make it an ideal choice for both day and evening wear.",
+        "slug": "astra-quilted-shoulder-bag"
+    },
+    {
+        "id": 4,
+        "name": "Vega Mini Satchel",
+        "price": 129,
+        "image": "imageProduct4",
+        "description": "Compact yet spacious, the Vega Mini Satchel is the perfect blend of style and convenience. Its structured design and top handle make it a versatile accessory for any outfit.",
+        "slug": "vega-mini-satchel"
+    },
+    {
+        "id": 5,
+        "name": "Seren Drawstring  Bag",
+        "price": 159,
+        "image": "imageProduct5",
+        "description": "The Seren Drawstring Bucket Bag offers a modern twist on a classic design. Its soft leather and adjustable strap make it both stylish and comfortable to carry.",
+        "slug": "seren-drawstring-bucket-bag"
+    },
+    {
+        "id": 6,
+        "name": "Aurora Woven Clutch",
+        "price": 99,
+        "image": "imageProduct6",
+        "description": "The Aurora Woven Clutch is a statement piece, featuring intricate woven detailing and a sleek silhouette. Perfect for adding a touch of sophistication to any evening ensemble.",
+        "slug": "aurora-woven-clutch"
+    },
+    {
+        "id": 7,
+        "name": "Stella  Backpack",
+        "price": 249,
+        "image": "imageProduct7",
+        "description": "The Stella Leather Backpack combines practicality with style. Made from durable leather with multiple pockets, it’s perfect for both work and weekend adventures.",
+        "slug": "stella-leather-backpack"
+    },
+    {
+        "id": 8,
+        "name": "Nova Convertible  Bag",
+        "price": 189,
+        "image": "imageProduct8",
+        "description": "The Nova Convertible Shoulder Bag offers versatility with its adjustable strap that allows it to be worn as a shoulder bag or crossbody. Its sleek design and roomy interior make it a must-have.",
+        "slug": "nova-convertible-shoulder-bag"
+    }
+]
+}
